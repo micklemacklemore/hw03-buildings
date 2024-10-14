@@ -2,6 +2,8 @@
 
 ## Reference for building details
 
+[See google doc for reference images...](https://docs.google.com/document/d/1z-yvnTRC7Kelk9ubO7J9iraJyNAfm_doirnmx1WN8KA/edit?usp=sharing)
+
 ### Windows
 
 <p align="center">
