@@ -38,11 +38,17 @@ Continue following the tutorial to add pillars and borders to each floor.
 ## Part 4: Supports
 Continue following the tutorial to add supports to floors that overhang other floors.  
 (Optional) Extra Credit 
+
 Throughout the tutorial, Simon mentions ways you could extend his project setup. Implement any of his suggestions: 
+
 More complex logic for creating supports (handle different length supports differently) Add more parameters to the user interface (for example, x and z offset options) UV and shade your models 
+
 Add a “manual node” where users can control detail placement manually 
+
 Add additional types of feature models (like fire escapes or chimneys). Note that, depending on what you choose, you might need to add new logic to integrate them into your building (ex: chimneys go on top instead of being chained on the side, fire escapes should be on one side of the building and go all the way down). We’ll award more extra credit accordingly.  
+
 Add some flair to your scene by dressing together multiple buildings or additional procedural props or background elements 
+
 Render your scene 
 
 ## Submission
