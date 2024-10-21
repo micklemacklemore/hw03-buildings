@@ -1,5 +1,11 @@
 # Houdini Buildings
 
+Creation of a procedural building based on this tutorial: https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini
+
+## Video
+
+https://github.com/user-attachments/assets/781d68c5-f8a7-4722-a665-947b69d144f6
+
 ## Reference for building details
 
 [See google doc for reference images...](https://docs.google.com/document/d/1z-yvnTRC7Kelk9ubO7J9iraJyNAfm_doirnmx1WN8KA/edit?usp=sharing)
